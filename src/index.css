@@ -1,0 +1,17 @@
+:root {
+  --main-color: #333333;
+  --secondary-color: #666666;
+  --accent-color: #ffc0cb;
+  --cinnabar-color: #e74c3c;
+  --bg-color: #f4f4f4;
+  --white-color: #fff;
+  --black-color: #000;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-color);
+}
